@@ -1,0 +1,15 @@
+# Most recently edited files in Vim (version 3.0)
+D:\web\index.php
+D:\web\include\library\Gaosi.phar
+D:\web\include\pumphp\Application.class.php
+D:\web\include\pumphp\Util.class.php
+D:\web\include\pumphp\Lang.class.php
+D:\web\include\pumphp\Cookie.class.php
+D:\web\tool\controller\index.php
+d:\vim\vim74\colors\torte.vim
+D:\web\note\linux\vsftpd.txt
+D:\web\note\linux\mage.txt
+D:\web\include\taskworker\taskworker.pid
+D:\web\include\taskworker\taskworker.php
+D:\web\include\library\Const.php
+D:\web\include\library\Config.php
